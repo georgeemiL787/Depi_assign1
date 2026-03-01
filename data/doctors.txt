@@ -1,0 +1,3 @@
+# doctors.txt: doctor_id|name|age|gender|specialty|availability(1/0)
+# delimiter: |
+

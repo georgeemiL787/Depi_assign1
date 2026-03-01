@@ -1,0 +1,3 @@
+# patients.txt: patient_id|name|age|gender|disease|visit_history(; separated)
+# delimiter: |
+
